@@ -1,0 +1,230 @@
+@media(max-width:667px){
+	.new_color{
+		background-color: orangered;
+		padding: 0px;
+		/* display: none; */
+        position:sticky;
+        top: 0px;
+	}
+	.navbar-brand{
+		display: block;
+	}
+	.logo_gloxy img{
+		position: absolute;
+		top: 0px;
+		left: 100px;
+		display: none;
+	}
+	.nav-item:hover{
+		background-color:white;
+		padding: 0px;
+	}
+    #navbar{
+        position:sticky;
+        top: 0px;
+    }
+    .curly{
+        background-image: url("arpana.jpg");
+        /* height: 100vh; */
+        /* width: 100%; */
+        background-size: 100%  55%;
+        background-repeat: no-repeat;
+    }
+    .conataint{
+        margin-left: -5px;
+        padding-top: 0px;
+    }
+    .conataint p{
+        font-size: 13px;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+    .conataint h1{
+        font-size: 35px;
+    }
+    .conataint button{
+        height: 50px;
+        width: 170px;
+        background-color: orangered;
+        color: #efe7e6;
+        border: none;
+        border-radius: 5px;
+    }
+    .three_div{
+        margin-top: -360px;
+        padding: 80px;
+    }
+    #icon_size{
+        font-size: 60px;
+        /* text-align: center; */
+        margin-top: 30px;
+    }
+    .container_div{
+        background-color:white;
+    }
+    .container_div:hover{
+        background-color: orangered;
+        color:white;
+        border: none;
+        cursor: pointer;
+    }
+    .box1{
+        margin-left: 130px;
+        height: 300px;
+        width: 200px;
+    }
+    .three_div:first-child{
+        background-color: orangered;
+    }
+    .services h1:first-child{
+        font-family:'Monoton', cursive;
+        color: black;
+        font-size: 60px;
+        opacity: 0.1;
+        position: relative;
+        top: -55px;
+        text-align: center;
+        z-index: -2;
+    }
+    .services h3{
+        margin-top: -115px;
+    }
+    .services p{
+        display: none;
+    }
+    .services span{
+        display: inline;
+        text-align-last:center ;
+    }
+    .six_boxesss{
+        text-align: center;
+    }
+    .services pre{
+        display: inline;
+    }
+    #sticky{
+        padding-left: 0px;
+        overflow: hidden;
+    }
+    #doteed{
+        height: 750px;
+        width: 100%;
+        padding-top: -100px;
+        background-image: url("dotted.jpg");
+        /* margin-bottom: 200px; */
+    	margin-bottom: 150px;
+
+    }
+    #hover{
+        height: 220px;
+        width: 170px;
+        background-color: #FC6026;
+        margin-right: 49.5px;
+        margin-bottom: 70px;
+        /* display: none; */
+        opacity: 0;
+        
+    }
+    #hover:hover{
+        opacity: 1;
+    }
+    .section_hover{
+        position:absolute;
+        top: 4416px;
+        /* left: 30px; */
+        margin-left: 50px;
+        }
+        .details{
+            margin-top: 80px;
+            text-align: center;
+        }
+        #hover:hover i{
+        
+            top: 0%;
+            font-size: 20px;
+            transform: rotate(-45deg);
+            border-radius: 50px;
+            background-color: white;
+            padding: 10px;
+            transition-duration: 0.5s;
+        }
+        #hover i{
+            position: relative;
+            top: 20%;
+            left: 0%;
+            /* transition: all 2s; */
+            text-align: center;
+            margin-left: 50px;
+            position: relative;
+        }
+        #tokyo{
+        padding: 20px;
+        }
+        .imges{
+            margin-bottom: 20px;
+        }
+        .user_hover{
+            opacity: 0;
+            margin-top: 0px;
+            transition: all 0.5s;
+        }
+        #first_card{
+            width: 400px;
+            margin-left: 50px;
+            box-shadow: 0px 0px 4px 0px rgb(126, 124, 124);
+            border-bottom: 1px solid rgb(211, 207, 207);
+            margin-bottom: 50px;
+            text-align: center;
+            margin-top: 50px;
+        }
+        #second_card{
+            margin-left: 50px;
+        }
+        #third_card{
+            margin-left: 50px;
+        }
+        #funfact{
+            margin-top: -100px;
+        }
+        #itemss h3:first-child{
+            margin-top: 50px;
+        }
+        #address{
+            text-align: center;
+            padding-left: 140px;
+
+        }
+        #location_outline{
+            margin-top: -80px;
+            margin-left: 100px;
+            padding-left: 0px;
+    
+        }
+        #h3_add{
+            margin-bottom: 130px;
+        }
+        .input_tags{
+            width: 100%;
+            /* margin-left: 20px; */
+            height: 50px;
+            background-color: #F1F1F1;
+            border: none;
+            margin-bottom: 30px;
+            padding-left: 20px;
+        }
+        .text_area{
+            width: 100%;
+        }
+        .submit_button{
+            margin-left: 200px;
+        }
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        #roww{
+            height: 140px;
+        }
+
+
+    }
